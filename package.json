@@ -1,0 +1,25 @@
+{
+  "name": "bikewin",
+  "version": "1.0.0",
+  "description": "bikewin 1.0.0 share my bike with friend around the world\"",
+  "main": "bikewin01_01.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linjinfeng/bikewin.git"
+  },
+  "keywords": [
+    "mykeywords"
+  ],
+  "author": "lin jinfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linjinfeng/bikewin/issues"
+  },
+  "homepage": "https://github.com/linjinfeng/bikewin#readme",
+  "dependencies": {
+    "stellar-base": "^0.6.0"
+  }
+}

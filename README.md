@@ -5,7 +5,7 @@ every one who buy a bike ,may be a remote bike,
 it is more than a bike ,but a make money machine.
 
 
- every rent bike revenue will pay to the remote owner ,and  the bike operator
+ every rent bike incoming  will pay to the remote owner ,and  the local bike operator (for bike repair)
  
  he finished the ride , he will receive the ad ,which the ad provider deliver.
  
@@ -22,4 +22,9 @@ it is more than a bike ,but a make money machine.
  5)bikewin.apk is application demo for android handphone.
  
  6)bikewin_pay.js stellar payment for bike owner and local operator.
-   
+ 
+ 7)www.bikewin.co  
+
+ 8)linjinfeng@gmail.com
+
+

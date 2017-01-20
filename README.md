@@ -19,4 +19,7 @@ it is more than a bike ,but a make money machine.
  
  4)the ad provider earn money from the rider finish their ride on app
  
- 5)  
+ 5)bikewin.apk is application demo for android handphone.
+ 
+ 6)bikewin_pay.js stellar payment for bike owner and local operator.
+   
